@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "firstName": "vinay",
+      "lastName": "okoko`",
+      "emailId": "kokokokok",
+      "id": 1
+    },
+    {
+      "firstName": "mohit",
+      "lastName": "kate",
+      "emailId": "mohit.kate@ojas-it.com",
+      "id": 3
+    }
+  ]
+}
